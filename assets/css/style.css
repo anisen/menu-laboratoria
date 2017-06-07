@@ -25,3 +25,19 @@
 div .ultimo-a{
 	border-right: none;
 }
+.a-menu:hover{
+	color: #2c3e50;
+}
+.icon{
+	display: none;
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+	position: left;
+	margin-right: 440px;
+}
+.menu{
+	display: none;
+	color: black;
+	font-size: 30px;
+}
